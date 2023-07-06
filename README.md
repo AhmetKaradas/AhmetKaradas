@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ahmet.
 
 I am currently working on Front-End Development. <br>
-And soon will be a Full-Stack Web Developer! 🎨
+
 
 
 ## 📋 Skills
@@ -18,9 +18,7 @@ And soon will be a Full-Stack Web Developer! 🎨
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
   
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>                
 
 </div></td></tr>
@@ -36,7 +34,7 @@ And soon will be a Full-Stack Web Developer! 🎨
 
 ## 💬 Contact
 - You can personally contact me here: ahmetkaradas.official@gmail.com
-- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkaradas/)
+- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmet-karadaş)
 
 ## 📑 Stats
 
